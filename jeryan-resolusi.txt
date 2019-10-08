@@ -1,7 +1,9 @@
 Resolusi Jeryan
 - Belajar Framework CodeIgniter
 - Belajar Github / Git
-- Belajar Bahasa Program Python + java
-- Belajar API-Key
+- Belajar Bahasa Program Python
+- Belajar Rest-API INDONESIA
+- Belajar Framework Laravel
+- Belajar Framework Django 
 - Konsisten Belajar Programming
 - Menjadi Profesional Programmer
